@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jangsuk's PortForlio"
+title                    : "Jangsuk's PortFolio"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "유장석의 포트폴리오 입니다.
 name                     : "Jangsuk Ryoo"
 description              : "포트폴리오 블로그입니다"
 url                      : "https://jangsukryoo.github.io"
