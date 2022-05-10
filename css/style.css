@@ -3,7 +3,7 @@
 /**********************************/
 body {
     color: #666666;
-    background: #343434;
+    background: #F6D155;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -314,7 +314,7 @@ a:focus {
 
 .header .content-inner {
     padding: 100px 30px;
-    background: white right bottom no-repeat;
+    background: url(../img/profile.png) right bottom no-repeat;
     background-size: contain;
 }
 
